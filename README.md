@@ -63,7 +63,7 @@ The system features secure user authentication and a centralized database to ens
 
 \<p align="center"\>
 \<b\>Splash Screen\</b\>\<br\>
-\<img src="[https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/4a9c019e95642e05bfdf63feea338d50e98767de/screenshot/Splash.jpg](https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/4a9c019e95642e05bfdf63feea338d50e98767de/screenshot/Splash.jpg)" alt="Splash Screen" width="250" style="padding-right:10px;"\>
+\![image alt](https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/4a9c019e95642e05bfdf63feea338d50e98767de/screenshot/Splash.jpg)" alt="Splash Screen" width="250" style="padding-right:10px;"\>
 \<b\>Sign In\</b\>\<br\>
 \<img src="[https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/4a9c019e95642e05bfdf63feea338d50e98767de/screenshot/SignIn.jpg](https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/4a9c019e95642e05bfdf63feea338d50e98767de/screenshot/SignIn.jpg)" alt="Sign In Screen" width="250" style="padding-right:10px;"\>
 \<b\>Sign Up\</b\>\<br\>
