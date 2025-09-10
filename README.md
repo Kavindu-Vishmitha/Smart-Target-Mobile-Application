@@ -63,5 +63,5 @@ The system features secure user authentication and a centralized database to ens
 
 This project is for **academic and educational purposes only**.
 
-Any form of **commercial use, redistribution, or modification** for profit is **strictly prohibited** without **explicit written permission** from the original authors.
+Any form of **commercial use, redistribution, or modification** for profit is **strictly prohibited** without **explicit written permission** from the original author.
  
