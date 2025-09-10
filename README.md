@@ -1,4 +1,4 @@
-# 🎯 Academic Goals Tracker Application
+# 🎯 Academic Goals Tracker
 
 A **mobile application** designed to help users set, track, and manage academic goals and targets. The system allows for organized subject-based target setting and tracks completion status.
 
