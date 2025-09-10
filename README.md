@@ -55,7 +55,10 @@ The system features secure user authentication and a centralized database to ens
 
 ## 🖥️ Interfaces
 
-(Note: Screenshots are not available, as the provided files do not contain image assets.)
+### 🔐 Login
+
+![image alt](https://github.com/Kavindu-Vishmitha/Smart-Target-Mobile-Application/blob/e9a8bf50823d48178559c16fb52a0a11709f3bfa/screenshot/SignIn.jpg)
+
 
 ---
 
